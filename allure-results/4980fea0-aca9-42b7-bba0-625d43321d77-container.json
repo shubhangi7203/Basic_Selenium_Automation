@@ -1,0 +1,1 @@
+{"uuid":"4980fea0-aca9-42b7-bba0-625d43321d77","name":"com.qa.testscripts.FlipKart_GetCommands","children":["a7eb10ec-700c-4a8c-9b0a-7550c4119ce0"],"befores":[{"name":"SetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1750930333254,"stop":1750930336117}],"afters":[],"start":1750930180321,"stop":1750930657987}

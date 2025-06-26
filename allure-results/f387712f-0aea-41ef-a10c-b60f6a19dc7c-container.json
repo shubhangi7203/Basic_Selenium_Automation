@@ -1,0 +1,1 @@
+{"uuid":"f387712f-0aea-41ef-a10c-b60f6a19dc7c","name":"com.qa.testscripts.Amazon_Loactors","children":["f2dd1f74-f8dc-4b80-aba7-880171ab571d"],"befores":[{"name":"SetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1750930484670,"stop":1750930491819}],"afters":[],"start":1750930180321,"stop":1750930657939}

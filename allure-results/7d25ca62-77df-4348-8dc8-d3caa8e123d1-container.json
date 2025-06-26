@@ -1,0 +1,1 @@
+{"uuid":"7d25ca62-77df-4348-8dc8-d3caa8e123d1","name":"com.qa.testscripts.Amazon_Drag_Drop","children":["a438bfee-eed7-4613-a74c-e90660b2f3ef"],"befores":[{"name":"SetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1750931441247,"stop":1750931443551}],"afters":[],"start":1750931195874,"stop":1750931497004}

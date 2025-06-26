@@ -1,0 +1,1 @@
+{"uuid":"22dc9493-4f30-4520-8a68-7b1cb8b5feba","name":"com.qa.testscripts.RobotClass_Demo","children":["ea3e497f-2d76-4ca9-8d1b-867d48f6adcc"],"befores":[{"name":"SetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1750931290107,"stop":1750931293454}],"afters":[],"start":1750931195876,"stop":1750931497012}

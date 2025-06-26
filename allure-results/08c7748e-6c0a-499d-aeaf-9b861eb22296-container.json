@@ -1,0 +1,1 @@
+{"uuid":"08c7748e-6c0a-499d-aeaf-9b861eb22296","name":"com.qa.testscripts.Zepto_Navigate_Commands","children":["0b6765fc-2f08-4e75-a470-c23ca9955251"],"befores":[{"name":"SetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1750931351513,"stop":1750931354992}],"afters":[],"start":1750931195876,"stop":1750931497013}

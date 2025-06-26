@@ -1,0 +1,1 @@
+{"uuid":"d50503f3-25e0-4087-a68c-2ae8423001ad","name":"com.qa.testscripts.DragandDrop_Method","children":["77ed91f6-0916-458a-badc-5b7c3a80a0c3"],"befores":[{"name":"SetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1750931230617,"stop":1750931233146}],"afters":[],"start":1750931195876,"stop":1750931497008}
